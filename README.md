@@ -18,7 +18,9 @@ The entire implementation is done in C 💻, without external libraries 🚫📦
 ## ⚙️🧩 Core Concepts Used
 This project is DSA-heavy by design 💪, not decorative.
 . 📂 File Handling in C
+
 . 🔁 Inverted Indexing Technique
+
 . 🔗 Linked Lists (word & file mapping)
 . 🧮 Hash Tables (fast lookup)
 . 🧠 Dynamic Memory Allocation (malloc, free)
