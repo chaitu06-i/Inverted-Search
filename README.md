@@ -17,25 +17,25 @@ The entire implementation is done in C 💻, without external libraries 🚫📦
 ---
 ## ⚙️🧩 Core Concepts Used
 This project is DSA-heavy by design 💪, not decorative.
-📂 File Handling in C
-🔁 Inverted Indexing Technique
-🔗 Linked Lists (word & file mapping)
-🧮 Hash Tables (fast lookup)
-🧠 Dynamic Memory Allocation (malloc, free)
-🔄 Searching & Traversal Algorithms
+. 📂 File Handling in C
+. 🔁 Inverted Indexing Technique
+. 🔗 Linked Lists (word & file mapping)
+. 🧮 Hash Tables (fast lookup)
+. 🧠 Dynamic Memory Allocation (malloc, free)
+. 🔄 Searching & Traversal Algorithms
 
 ---
 
 ## 🏗️⚡ How It Works (High-Level Flow)
 
-📥 Read multiple input text files
-✂️ Tokenize words from each file
-🧱 Build an inverted index
+. 📥 Read multiple input text files
+. ✂️ Tokenize words from each file
+. 🧱 Build an inverted index
  > Each word stores:  
 . 📄 List of files it appears in
 . 🔢 Frequency count per file
-🔍 User enters a keyword
-⚡ System retrieves matching documents instantly
+. 🔍 User enters a keyword
+. ⚡ System retrieves matching documents instantly
 ---
 
 ## 🧪✨ Features
@@ -51,17 +51,17 @@ This project is DSA-heavy by design 💪, not decorative.
 Most beginners claim DSA knowledge 🗣️ but never apply it.
 This project proves you can:
 
-🧑‍💻 Think like a system programmer
-🧠 Implement real-world algorithms
-⚙️ Write efficient low-level C code
-🌐 Understand how search engines work internally
+. 🧑‍💻 Think like a system programmer
+. 🧠 Implement real-world algorithms
+. ⚙️ Write efficient low-level C code
+. 🌐 Understand how search engines work internally
 
 ---
 ## 🛠️🧰 Technologies Used
 
-💻 Language: C
-📚 Concepts: Data Structures & Algorithms
-🧪 Tools: GCC Compiler, Linux / Windows Terminal
+. 💻 Language: C
+. 📚 Concepts: Data Structures & Algorithms
+. 🧪 Tools: GCC Compiler, Linux / Windows Terminal
 
 ---
 ## 📌🎯 Use Cases
