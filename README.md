@@ -47,6 +47,7 @@ This project is DSA-heavy by design 💪, not decorative.
 . 🔍 User enters a keyword
 
 . ⚡ System retrieves matching documents instantly
+
 ---
 
 ## 🧪✨ Features
