@@ -63,24 +63,35 @@ Most beginners claim DSA knowledge 🗣️ but never apply it.
 This project proves you can:
 
 . 🧑‍💻 Think like a system programmer
+
 . 🧠 Implement real-world algorithms
+
 . ⚙️ Write efficient low-level C code
+
 . 🌐 Understand how search engines work internally
+
 
 ---
 ## 🛠️🧰 Technologies Used
 
 . 💻 Language: C
+
 . 📚 Concepts: Data Structures & Algorithms
+
 . 🧪 Tools: GCC Compiler, Linux / Windows Terminal
+
 
 ---
 ## 📌🎯 Use Cases
 
 🔍 Text search engines
+
 📊 Log file analysis
+
 📚 Indexing large document sets
+
 🎓 Academic DSA demonstrations
+
 
 ---
 
@@ -88,4 +99,5 @@ This project proves you can:
 
 This Inverted Search project demonstrates how DSA principles 🧠 can drastically improve performance ⚡ in real-world applications 🌍.
 By implementing it in C, the project emphasizes efficiency, control, and deep technical understanding 🔧💡.
+
 ----
