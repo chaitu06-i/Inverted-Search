@@ -1,11 +1,13 @@
 # Inverted-Search
 An inverted search project built in C using data structures like linked lists and hash tables to index and retrieve documents based on keywords.
 ...................................................................................................................
+
 📌🎯 Purpose
 
 The purpose of this project is to design and implement an efficient inverted search engine using C programming 🧑‍💻 and core Data Structures & Algorithms (DSA) 🧠.
 This system enables fast keyword-based document search ⚡ by reducing search time compared to traditional linear search methods 🐢
 ...............................................................................................................
+🧠📖 Project Overview
 An Inverted Index 🔁 maps words → documents instead of documents → words 📄.
 This project builds such an index from multiple text files 📂 and allows users to quickly retrieve documents containing a specific keyword 🔎.
 
